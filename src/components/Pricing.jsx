@@ -31,7 +31,7 @@ export const Pricing = () => {
                 Choose your best plan
               </h2>
               <p className="mb-6 text-customGrayText">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              দক্ষিণ এশিয়ার প্রাচীন ও ধ্রুপদী যুগে বাংলাদেশ অঞ্চলটিতে বঙ্গ, পুণ্ড্র, গৌড়, গঙ্গাঋদ্ধি, সমতট ও হরিকেল নামক জনপদ গড়ে উঠেছিল।
               </p>
               <label className="mx-auto bg-customDarkBg3 relative flex justify-between items-center group text-xl w-44 h-12 rounded-lg pr-36 pl-1 cursor-pointer">
                 <input
@@ -69,7 +69,7 @@ export const Pricing = () => {
                   </div>
 
                   <p className="mt-4 mb-6 2xl:mb-10 text-gray-500 leading-loose text-left">
-                    The perfect way to get started and get used to our tools.
+                  বখতিয়ার খলজির গৌড় জয়ের পরে ও দিল্লি সালতানাত আমলে এ অঞ্চলে ইসলাম ছড়িয়ে পড়ে। ইউরোপীয়রা শাহী বাংলাকে পৃথিবীর সবচেয়ে ধনী বাণিজ্য দেশ হিসেবে গণ্য করতো।
                   </p>
                   <ul className="mb-2 2xl:mb-6 text-white">
                     <li className="mb-4 flex">
